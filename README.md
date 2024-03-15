@@ -29,7 +29,7 @@ Aquí puedes ver un extracto del archivo comentarios.csv:
 | L'ultima campagna di Zara va bene, niente di speciale.  | Campagna Accettabile | NeutralObserver | Neutro      | Italiano |
 | I can't believe we are living in a time where Zara works better on their campaigns than some BIG fashion houses. | Zara Campaign Excellence | TrendSetter77 | Positivo    | Inglés   |
 
-## :bar_chart: **Power BI Dashboard**
+## **Power BI Dashboard**
 El resultado del análisis se muestra en Power BI.
 
 
